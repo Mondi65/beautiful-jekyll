@@ -3,7 +3,7 @@ layout: post
 title: I MADE IT!
 subtitle: Excerpt from Soulshaping by Jeff Brown
 cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
+thumbnail-img: /assets/img/Puppy.jpg
 share-img: /assets/img/path.jpg
 tags: [books, test]
 ---
