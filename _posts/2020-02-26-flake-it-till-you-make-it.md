@@ -1,7 +1,7 @@
 ---
 layout: post
 title: I MADE IT!
-subtitle: Excerpt from Soulshaping by Jeff Brown
+subtitle: Rimonda Reynaud
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/Puppy.jpg
 share-img: /assets/img/path.jpg
