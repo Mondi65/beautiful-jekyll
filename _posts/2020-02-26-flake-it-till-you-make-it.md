@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Rimonda Reynaud
-subtitle: Thank you for visiting my website
+subtitle: Senior Product & Program Manager
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/Mondi.jpg
 share-img: /assets/img/path.jpg
