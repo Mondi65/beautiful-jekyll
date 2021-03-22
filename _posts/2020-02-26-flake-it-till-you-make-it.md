@@ -1,7 +1,7 @@
 ---
 layout: post
-title: I MADE IT!
-subtitle: Rimonda Reynaud
+title: Rimonda Reynaud
+subtitle: Thank you for visiting my website
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/Mondi.jpg
 share-img: /assets/img/path.jpg
