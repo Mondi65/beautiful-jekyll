@@ -3,7 +3,7 @@ layout: post
 title: I MADE IT!
 subtitle: Rimonda Reynaud
 cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/Puppy.jpg
+thumbnail-img: /assets/img/Mondi.jpg
 share-img: /assets/img/path.jpg
 tags: [books, test]
 ---
